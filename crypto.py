@@ -34,5 +34,3 @@ original = private_key.decrypt(
         label=None
     )
 )
-
-print(original)
